@@ -4,4 +4,4 @@ cubicStylization_ImGui/build
 cubicStylization_ImGui/*.obj
 cubicStylization_cmd/build
 cubicStylization_cmd/*.obj
-
+meshes/*.obj
